@@ -1,3 +1,4 @@
-# LeaCamara.github.io
-Welcome to my personal website. 
-My life is a constant work in progress, so this website will be a constant work in progress, too.
+# Skillcrush101StarterSite
+
+- I converted a designer's PSD file into a hand-coded HTML5 and CSS website that is a pixel-perfect match.
+- And then personalized the code for leacamara.com.
